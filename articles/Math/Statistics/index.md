@@ -3,6 +3,7 @@ title: Statistics
 ---
 
 ## Statistics
+Statistics is a branch of mathematics dealing with the collection, analysis, interpretation, presentation, and organization of data.[1][2] In applying statistics to, e.g., a scientific, industrial, or social problem, it is conventional to begin with a statistical population or a statistical model process to be studied.
 
 This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Math/Statistics/index.md).
 
