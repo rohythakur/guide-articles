@@ -3,6 +3,7 @@ title: Computer Hardware
 ---
 
 ## Computer Hardware
+Computer hardware refers to the physical components that make up a computer system.It's the body and software is the soul of the computer system.
 
 This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Hardware/index.md).
 
